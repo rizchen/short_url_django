@@ -28,7 +28,7 @@ docker exec -it docker exec -it shorten_url_django python manage.py createsuperu
 ### Step6: services
 ```
 - shorten url: http://localhost:8000/
-- check back-end: http://localhost:8000/admin
+- check back-end: http://localhost:8000/admin/
 ```
 
 ### Step7: Stop service
